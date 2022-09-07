@@ -1,3 +1,4 @@
+import './assets/styles/custom.scss';
 import React from 'react';
 
 function App (){
